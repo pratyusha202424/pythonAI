@@ -17,7 +17,7 @@ for name in names:
 
 print(cities[2]);
 print(planets["earth"]);
-print(names[0]);
+print(names[1]);
 
 
 
